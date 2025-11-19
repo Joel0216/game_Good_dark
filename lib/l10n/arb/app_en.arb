@@ -1,0 +1,160 @@
+{
+  "@@locale": "en",
+  "startVeryGoodGame": "Start the Very Good Game",
+  "@startVeryGoodGame": {
+    "description": "The initial start button of the game application"
+  },
+  "titleAppBarTitle": "Echo World",
+  "@titleAppBarTitle": {
+    "description": "Text shown in the AppBar of the Title Page"
+  },
+  "titleButtonStart": "Start",
+  "@titleButtonStart": {
+    "description": "Text shown in the start Button of the Title Page"
+  },
+  "loading": "Loading {label}...",
+  "@loading": {
+    "description": "Text for the loading page",
+    "placeholders": {
+      "label": {
+        "type": "String",
+        "example": "Stuff",
+        "description": "Label for what is being loaded"
+      }
+    }
+  },
+  "loadingPhaseLabel": "{loadingPhase, select, audio{Delightful music} images{Beautiful scenery} other{ }}",
+  "@loadingPhaseLabel": {
+    "description": "Loading phases",
+    "placeholders": {
+      "loadingPhase": {}
+    }
+  },
+  "counterText": "Unicorn taps: {count}",
+  "@counterText": {
+    "description": "Text for the counter component",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "10",
+        "description": "The current count"
+      }
+    }
+  },
+  "journalTitle": "Narrative Echoes",
+  "@journalTitle": {
+    "description": "Title for the journal screen"
+  },
+  "journalEmpty": "You have not discovered any echoes yet. Use [ECO] to reveal them in the darkness.",
+  "@journalEmpty": {
+    "description": "Message shown when no echoes are unlocked"
+  },
+  "journalLocked": "???",
+  "@journalLocked": {
+    "description": "Text shown for locked echoes"
+  },
+  "journalLockedDesc": "This echo remains hidden in the depths of the facility.",
+  "@journalLockedDesc": {
+    "description": "Description for locked echoes"
+  },
+  "journalClose": "Close",
+  "@journalClose": {
+    "description": "Close button text"
+  },
+  "ecoNarrativo_001_title": "Subject 7: Awakening",
+  "@ecoNarrativo_001_title": {
+    "description": "Title for narrative echo 001"
+  },
+  "ecoNarrativo_001_desc": "You wake in your shattered containment cell. The silence is deafening, broken only by distant groans. Project Cassandra has failed. You are the only success... and your prison has become your tomb.",
+  "@ecoNarrativo_001_desc": {
+    "description": "Description for narrative echo 001"
+  },
+  "ecoNarrativo_002_title": "The Sonic Infiltrator",
+  "@ecoNarrativo_002_title": {
+    "description": "Title for narrative echo 002"
+  },
+  "ecoNarrativo_002_desc": "Project Cassandra aimed to create the ultimate infiltration agent: blind, invisible to thermal sensors, capable of navigating in total darkness. The Rupture Scream was meant to be a demolition tool. Instead, it became your only weapon.",
+  "@ecoNarrativo_002_desc": {
+    "description": "Description for narrative echo 002"
+  },
+  "ecoNarrativo_003_title": "The Resonances: Failed Subjects",
+  "@ecoNarrativo_003_title": {
+    "description": "Title for narrative echo 003"
+  },
+  "ecoNarrativo_003_desc": "Your 'brothers' could not contain the power. Their minds flooded with unbearable noise, an eternal sonic agony. They hunt any external sound to silence their own torment. They are not evil. They are suffering.",
+  "@ecoNarrativo_003_desc": {
+    "description": "Description for narrative echo 003"
+  },
+  "ecoNarrativo_004_title": "Energetic Cannibalism",
+  "@ecoNarrativo_004_title": {
+    "description": "Title for narrative echo 004"
+  },
+  "ecoNarrativo_004_desc": "The Resonant Nuclei pulse with pure sonic energy. To survive, you must absorb them. But each absorption carries a fragment of their madness, their memories, their noise. How much can you take before you become one of them?",
+  "@ecoNarrativo_004_desc": {
+    "description": "Description for narrative echo 004"
+  },
+  "ecoNarrativo_005_title": "Dr. Mirren's Log: Day 1",
+  "@ecoNarrativo_005_title": {
+    "description": "Title for narrative echo 005"
+  },
+  "ecoNarrativo_005_desc": "\"Subject 7 shows remarkable adaptation. Unlike previous subjects, their brain has successfully rerouted visual cortex pathways to auditory processing. The Imbuing process may finally work. Aethel will be pleased.\"",
+  "@ecoNarrativo_005_desc": {
+    "description": "Description for narrative echo 005"
+  },
+  "ecoNarrativo_006_title": "The Incident",
+  "@ecoNarrativo_006_title": {
+    "description": "Title for narrative echo 006"
+  },
+  "ecoNarrativo_006_desc": "Emergency logs indicate a containment failure in Sector 2. Subject 13, classified as 'Alpha Resonance', unleashed an uncontrolled Rupture Scream. The facility collapsed within 3 minutes. Casualty count: unknown. Survivors: unknown.",
+  "@ecoNarrativo_006_desc": {
+    "description": "Description for narrative echo 006"
+  },
+  "ecoNarrativo_007_title": "The Hunt for Silence",
+  "@ecoNarrativo_007_title": {
+    "description": "Title for narrative echo 007"
+  },
+  "ecoNarrativo_007_desc": "The Resonances do not hunt from malice. Every footstep, every echo, every breath is a needle piercing their already tortured minds. They seek silence with the desperation of the damned. You are just another source of noise to be eliminated.",
+  "@ecoNarrativo_007_desc": {
+    "description": "Description for narrative echo 007"
+  },
+  "ecoNarrativo_008_title": "Mental Noise: The Price",
+  "@ecoNarrativo_008_title": {
+    "description": "Title for narrative echo 008"
+  },
+  "ecoNarrativo_008_desc": "Each nucleus you absorb increases your 'Mental Noise'. The whispers grow louder. False echoes appear. At 100, your mind will collapse. You will become what you hunt. Escape before the noise consumes you.",
+  "@ecoNarrativo_008_desc": {
+    "description": "Description for narrative echo 008"
+  },
+  "ecoNarrativo_009_title": "Sector 1: Containment",
+  "@ecoNarrativo_009_title": {
+    "description": "Title for narrative echo 009"
+  },
+  "ecoNarrativo_009_desc": "This sector housed the subject cells. Reinforced walls, soundproof chambers, biometric locks. All useless now. The 'Hunters' patrol these corridors, drawn to the familiar spaces of their former captivity.",
+  "@ecoNarrativo_009_desc": {
+    "description": "Description for narrative echo 009"
+  },
+  "ecoNarrativo_010_title": "Sector 2: Laboratories",
+  "@ecoNarrativo_010_title": {
+    "description": "Title for narrative echo 010"
+  },
+  "ecoNarrativo_010_desc": "The heart of Project Cassandra. Here, the Imbuing took place. Equipment still hums with residual power. 'Sentries' remain, their static alarm ready to summon the horde. Stealth is no longer optional.",
+  "@ecoNarrativo_010_desc": {
+    "description": "Description for narrative echo 010"
+  },
+  "ecoNarrativo_011_title": "Sector 3: Exit",
+  "@ecoNarrativo_011_title": {
+    "description": "Title for narrative echo 011"
+  },
+  "ecoNarrativo_011_desc": "Collapsed access tunnels lead to the surface. 'Brutes', the Alpha Resonances, guard this path. They can demolish walls, require multiple Rupture Screams to defeat, and their footsteps alone betray your position. This is the final gauntlet.",
+  "@ecoNarrativo_011_desc": {
+    "description": "Description for narrative echo 011"
+  },
+  "ecoNarrativo_012_title": "Dr. Mirren's Log: Final Entry",
+  "@ecoNarrativo_012_title": {
+    "description": "Title for narrative echo 012"
+  },
+  "ecoNarrativo_012_desc": "\"Subject 7 is stable. They are the key. But I fear we've created something beyond our control. If Subject 13 breaks containment... God forgive us. I'm evacuating. If anyone finds this: Subject 7 can survive. Let them escape. End this project.\"",
+  "@ecoNarrativo_012_desc": {
+    "description": "Description for narrative echo 012"
+  }
+}
