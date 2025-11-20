@@ -113,3 +113,5 @@ app.*.map.json
 
 # Generated l10n files
 lib/l10n/gen/
+
+.fake
